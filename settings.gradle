@@ -13,5 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "FirebaseAuthLibrary"
-include ':app'
+if (!System.env.JITPACK) {
+    include ':app'
+}
 include ':firebase-auth'
