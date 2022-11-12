@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseAuthSample</string>
+    <string name="fragment_image_position">%d/%d</string>
+    <string name="error">An error occurred</string>
+    <string name="fragment_confirm_password_dont_match">The entered passwords don\'t match</string>
+    <string name="fragment_login_create_account">Create Account</string>
+    <string name="fragment_login_login">Login</string>
+    <string name="fragment_login_password">Password</string>
+    <string name="fragment_login_email">Email</string>
+    <string name="fragment_enter_email_confirm_email">Confirm Email</string>
+    <string name="fragment_enter_password_password">Password</string>
+    <string name="fragment_enter_password_error_length">Password should be at least %d characters </string>
+    <string name="fragment_enter_password_enter_password">Confirm Password</string>
+    <string name="fragment_confirm_password_create_account">Create Account</string>
+    <string name="fragment_confirm_password_confirm_password">Confirm Password</string>
+</resources>
